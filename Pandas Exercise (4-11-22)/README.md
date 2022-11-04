@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 4. Sort and display all data in ascending order based on their "free sulfur dioxide" values.
 5. Replace all data in the "quality" feature of value 5 with 10.
 6. Rename the columns "free sulfur dioxide" and "total sulfur dioxide" as "FSD" and "TSD" respectively.
-7. How according to you is this helpful in ML?
+7. How according to you is using Pandas helpful in ML?
 
 # Submission
 Upload the ".ipynb" file with the file name as "YourFullName.ipynb".
