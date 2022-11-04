@@ -11,4 +11,4 @@ https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 7. How according to you is this helpful in ML?
 
 # Submission
-Upload the ".ipynb" file with the name "YourFullName".
+Upload the ".ipynb" file with the file name as "YourFullName.ipynb".
