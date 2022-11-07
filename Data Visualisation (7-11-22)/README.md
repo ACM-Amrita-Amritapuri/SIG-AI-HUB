@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/fedesoriano/california-housing-prices-data-extra
 3. Plot the heatmap of the correlation matrix of the dataset.
    
    Reference Links:- https://www.displayr.com/what-is-a-correlation-matrix/<br />
-                     https://www.geeksforgeeks.org/python-pandas-dataframe-corr/
+https://www.geeksforgeeks.org/python-pandas-dataframe-corr/
 4. Display a scatterplot between median income and median house value and colour encode it based on the age.
 5. Plot a density graph of the distance to LA and colour encode it based on the age between 30 and 40 (both included).
 6. Plot any one type of graph using the module plotly.express (you can refer to link given below).
