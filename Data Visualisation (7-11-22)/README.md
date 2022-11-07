@@ -17,4 +17,4 @@ https://www.kaggle.com/datasets/fedesoriano/california-housing-prices-data-extra
    Reference Links:- 
 
 # Submission
-Upload the ".ipynb" file with your name in the "Data Visualisation" folder.
+Upload the ".ipynb" file with your name as the file name in the "Data Visualisation" folder.
