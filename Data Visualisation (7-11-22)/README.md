@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/fedesoriano/california-housing-prices-data-extra
 1. Plot a line graph of the total rooms and total bedrooms in the same figure and give labels as "Total Rooms" and "Total Bedrooms".
 2. Plot a median age Vs. median income bar graph with the values of median income lesser than 6.
 3. Plot the heatmap of the correlation matrix of the dataset.<br />
-   Reference Links:- 
+   Reference Links:- <br />
       https://www.displayr.com/what-is-a-correlation-matrix/<br />
       https://www.geeksforgeeks.org/python-pandas-dataframe-corr/
 4. Display a scatterplot between median income and median house value and colour encode it based on the age.
