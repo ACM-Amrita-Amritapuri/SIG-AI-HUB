@@ -15,6 +15,7 @@ https://www.kaggle.com/datasets/fedesoriano/california-housing-prices-data-extra
 5. Plot a density graph of the distance to LA and colour encode it based on the age between 30 and 40 (both included).
 6. Plot any one type of graph of your choice using the plotly.express module (you can refer to link given below).<br />
    *Reference Links:-*<br /> 
+   - https://plotly.com/python/
 
 # Submission
 Upload the ".ipynb" file with your name as the file name in the "Data Visualisation" folder.
