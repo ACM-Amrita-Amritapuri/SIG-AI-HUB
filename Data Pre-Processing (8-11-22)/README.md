@@ -1,5 +1,5 @@
 # Dataset Link
-https://raw.githubusercontent.com/DRK-02/COVID-19-Analysis/main/Data_Set.csv?token=GHSAT0AAAAAAB2YYV5FVHKX2HSFKHYNUEZUY3KHLUA
+https://raw.githubusercontent.com/ACM-Amrita-Amritapuri/AI-Daily-Tasks/main/Data%20Pre-Processing%20(8-11-22)/Data_Set.csv
 
 # Tasks
 1. **Data pre-processesing**
@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/DRK-02/COVID-19-Analysis/main/Data_Set.csv?tok
      - https://www.geeksforgeeks.org/python-pandas-dataframe-isna/
    - Check the summary of the dataset and print the total number of available features.
 2. **Data Enhancement**
-   - Convert all columns with object data types into integer values. Now check the summary of the dataset. What is the function being used do?<br />
+   - Convert all columns with object data types into integer values. Now check the summary of the dataset. What does the function being used do?<br />
      *Reference Link:-*<br />
      - https://www.geeksforgeeks.org/ml-label-encoding-of-datasets-in-python/
    - Plot the heatmap of the correlation matrix and print the name of the feature corresponding to X-axis with the highest value and the target variable.
