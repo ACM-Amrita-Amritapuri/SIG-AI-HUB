@@ -16,8 +16,8 @@ https://raw.githubusercontent.com/DRK-02/COVID-19-Analysis/main/Data_Set.csv?tok
    - Plot a pairplot to see the distribution of every pair of features. What does the pairplot indicate?<br />
      *Reference Link:-*<br />
      - https://www.geeksforgeeks.org/python-seaborn-pairplot-method/
-   - Plot a scatter graph between confirmed and deaths and mention how efficient your model would be if you draw a prediction line through the plot.
+   - Plot a scatter graph between confirmed and deaths and mention how efficient your model would be if you draw a straight prediction line through the plot.
 
 
 # Submission
-Upload the ".ipynb" file with your name as the file name in the "Data Visualisation" folder.
+Upload the ".ipynb" file with your name as the file name in the "Data Pre-Processessing" folder.
