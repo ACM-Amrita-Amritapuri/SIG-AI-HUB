@@ -1,7 +1,10 @@
 # Tasks
-1. Find a dataset with which you will be working on the ML project.
-2. Create a shortlist of algorithms (min. 2) your you would prefer to immplement along with a description of each in a text file.
-   *Note:- You will need to pick any 1 from your shortlist for your model.*
+Create an ML model with the dataset you have chosen. The project should contain the following:-
+1. Dataset analysis using pandas.
+2. Data pre-processing and cleansing.
+3. Data visualisation.
+4. Implementation of any 1 algorithm from your shortlist for your ML model.
 
 # Submission
-Upload the folder with your name containing your dataset and the ".txt" file of your algorithm description into the "Dataset & Algorithm" folder.
+Upload the ".ipynb" file with your name as the file name.
+**Deadline:- 14/11/2022 (night)**
