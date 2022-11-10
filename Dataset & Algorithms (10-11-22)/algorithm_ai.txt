@@ -1,0 +1,5 @@
+Linear regression : Linear regression analysis is used to predict the value of a variable based on the value of another variable. 
+The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
+
+Ploynomial regression : Polynomial Regression is a form of linear regression in which the relationship between the independent variable x and dependent variable y is
+ modeled as an nth degree polynomial.
