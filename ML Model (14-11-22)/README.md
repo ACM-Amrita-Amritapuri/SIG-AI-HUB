@@ -6,5 +6,5 @@ Create an ML model with the dataset you have chosen. The project should contain 
 4. Implementation of any 1 algorithm from your shortlist for your ML model.
 
 # Submission
-Upload the ".ipynb" file with your name as the file name.
+Upload the ".ipynb" file with your name as the file name.<br />
 **Deadline:- 14/11/2022 (night)**
