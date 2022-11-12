@@ -1,9 +1,0 @@
-
-Linear regression-
- Linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables.
- A regression equation (or function) is linear when it is linear in the parameters.
-
-Polynomial regression-
- Polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modelled as an nth degree polynomial in x.
- Polynomial regression is one of the machine learning algorithms used for making predictions.
- 
