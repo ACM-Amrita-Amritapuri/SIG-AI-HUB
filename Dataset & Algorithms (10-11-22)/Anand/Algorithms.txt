@@ -1,0 +1,7 @@
+The problem is to predict the house price using linear regression. 
+Many algorithms can be used to solve this problem two of them are given below:
+
+1. Multi-Linear regression :- This algorithm takes two variables, one independent and one
+dependant variable and performs regression based on those variables.
+2. Randm Forest Regression :- Using many decision trees, regression can be performed on the
+dataset to achieve the prediction succesfully. 
