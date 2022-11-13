@@ -1,0 +1,6 @@
+Linear regression-
+Linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables. 
+It is a statistical method that is used for predictive analysis.
+
+Polynomial regression-
+ polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modelled as an nth degree polynomial in x.
