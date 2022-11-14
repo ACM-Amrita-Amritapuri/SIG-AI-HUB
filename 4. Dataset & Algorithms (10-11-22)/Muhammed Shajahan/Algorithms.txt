@@ -1,0 +1,4 @@
+Linear Regression		: Linear regression algorithm shows a linear relationship between a dependent (y) and one or more independent (y) variables 
+
+
+Non Linear Regression	: Nonlinear regression is a form of regression analysis in which data is fit to a model and then expressed as a mathematical function. Simple linear regression relates two variables (X and Y) with a straight line (y = mx + b), while nonlinear regression relates the two variables in a nonlinear (curved) relationship.
