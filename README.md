@@ -26,6 +26,6 @@
     <a href= "https://www.kaggle.com/"><img alt = "Kaggle" src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
     <a href= "https://www.sololearn.com/"><img alt = "Sololearn" src = "https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"></a>
     <a href= "https://www.python.org/"><img alt = "Python" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-    <a href= "https://scikit-learn.org/stable/"><img alt = "Scikit Learn" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+    <a href= "https://scikit-learn.org/stable/"><img alt = "Scikit Learn" src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
     <a href= "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img alt = "Jupyter" src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
-    
+    <a href= "https://www.coursera.org/learn/machine-learning"><img alt = "Coursera" src = "https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>
