@@ -10,8 +10,16 @@
   <a href= "https://instagram.com/ai_amrita?igshid=YmMyMTA2M2Y="><img alt = "Instagram" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </div>
   
+## 📜 Rules and Regulations 
+ 
+ -  We encourage submissions before or on the deadline. All the submissions after the deadline would be penalized
+ -  Late submission >> Plagiarism; We want your work. We appreciate it if you guys just show your genuine work
+ - You must report to club to do the tasks. You can do it online if there's a valid reason informed to the mentors prior.
+ - If you have any doubt use our discord to communicate. You can also ask the mentors and peers doubts. And last but not to least, make sure you learn the art of googling before asking.
+ 
   
- ## 🤖 Links to Guide 
+## 🤖 Links to Guide 
+
  
  <div align = center>
  <a href= "https://www.comet.com/site/"><img alt = "Comet ML" src = "https://custom-icon-badges.herokuapp.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white"></a>
