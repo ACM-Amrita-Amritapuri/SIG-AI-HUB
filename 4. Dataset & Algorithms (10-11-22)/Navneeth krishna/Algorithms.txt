@@ -1,0 +1,2 @@
+Linear regression-linear regression is a regression model that estimates the relationship between one independent variable and one dependent variable using a straight line.
+Logistic regression-Logistic regression is an example of supervised learning. It is used to calculate or predict the probability of a binary (yes/no) event occurring
