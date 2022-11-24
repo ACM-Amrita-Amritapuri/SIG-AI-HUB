@@ -1,0 +1,5 @@
+1.Algorithmic trading is a process for executing orders utilizing automated and preprogrammed trading instructions to account for variables such as price, timing and
+volume. An algorithm is a set of directions for solving a problem. Computer algorithms send small portions of the full order to the market over time.
+The objective of the project is to implement momentum strategy using machine learning.
+2.Here we are predicting trading signals using machine learning techniques based on a set of rules using technical indicators.
+And then we check the predictions for a particular stock using linear regressions .
