@@ -1,2 +1,0 @@
-Linear Regression
-SVM model

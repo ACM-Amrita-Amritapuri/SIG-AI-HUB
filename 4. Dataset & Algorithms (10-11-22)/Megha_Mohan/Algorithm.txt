@@ -1,3 +1,0 @@
-1) Random Forest Regressor
-
-2) Linear Regression

@@ -1,5 +1,0 @@
-Linear regression 
-Logistic regression
-KNN model
-Decision Tree
-SVM
