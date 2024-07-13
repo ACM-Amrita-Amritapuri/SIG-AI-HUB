@@ -1,5 +1,5 @@
 <div align = center>
-<h1>AI-Daily-Tasks</h1>
+<h1>SI-AI-Contributions</h1>
 <img src = "https://user-images.githubusercontent.com/91787553/202252581-b1404f85-87bb-4593-b06f-135b203a9c01.png" width = 250>
 </div>
 
@@ -10,13 +10,6 @@
   <a href= "https://instagram.com/ai_amrita?igshid=YmMyMTA2M2Y="><img alt = "Instagram" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </div>
   
-## 📜 Rules and Regulations 
- 
- -  We encourage submissions before or on the deadline. All the submissions after the deadline would be penalized
- -  Late submission >> Plagiarism; We want your work. We appreciate it if you guys just show your genuine work
- - You must report to club to do the tasks. You can do it online if there's a valid reason informed to the mentors prior.
- - If you have any doubt use our discord to communicate. You can also ask the mentors and peers doubts. And last but not to least, make sure you learn the art of googling before asking.
- 
   
 ## 🤖 Links to Guide 
 
