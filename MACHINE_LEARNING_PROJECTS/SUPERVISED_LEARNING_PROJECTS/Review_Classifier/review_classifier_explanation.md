@@ -22,7 +22,7 @@ WORKFLOW:-
         *CountVectorizer: Converts text data into a matrix of token counts.
         *RandomForestClassifier: A random forest classifier with 5 trees and using entropy as the criterion for splitting.
    
-6.SPLITTING THE DATA:
+6. SPLITTING THE DATA:
     The dataset is split into training and testing sets. 80% of the data is used for training, and 20% is used for testing.
     
 7. TRAINING THE MODEL:
