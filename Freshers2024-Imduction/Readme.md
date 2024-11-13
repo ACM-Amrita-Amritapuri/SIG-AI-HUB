@@ -47,9 +47,9 @@ The **Special Interest Group in Artificial Intelligence (SIG AI)** is a communit
    - **Activities:** Workshops, hackathons, open-source contributions, research, and industry collaborations.
 
 ### 🏅 **Meet the Team**
-   - **Lead Members:** [Names and Roles]
-   - **Mentors:** [Names and Roles]
-   - **Freshers:** [List of Freshers]
+   - **Lead Members:** [Lokesh Yerramallu-Lead]
+   - **Mentors:** [Madan,Sanjit,Manish,Nitish,Kaushik-Mentors]
+
 
 ### 🌐 **Opportunities in SIG AI**
    - **Skill Development:** Hands-on workshops and projects.
